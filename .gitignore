@@ -1,0 +1,9 @@
+servidor/bv/bv
+cliente/corretora/corretora
+servidor/bv/bv
+servidor/data/*.txt
+*.o
+*.d
+servidor
+*.log
+teste_config

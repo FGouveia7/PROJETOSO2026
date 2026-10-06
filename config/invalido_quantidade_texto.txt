@@ -1,0 +1,3 @@
+Brisa abc 5.00 6.32
+Nike 0 5.00 2.10
+Estepilha 100000 5.00 5.00
